@@ -10,7 +10,7 @@ import markdown
 
 import ssl
 
-openai.api_key = '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'
+openai.api_key = ''
 
 
 def chat(dish):
